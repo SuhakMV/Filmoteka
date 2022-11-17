@@ -2,7 +2,7 @@
   "name": "filmoteka_project8",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://life-paradox.github.io/filmoteka_project8",
+  "homepage": "https://suhakmv.github.io/Filmoteka/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /filmoteka_project8/"
